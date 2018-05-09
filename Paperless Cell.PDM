@@ -1,0 +1,119 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\References\vbalIml6.ocx=
+\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\References\vbalLBar6.ocx=
+C:\Program Files\Common Files\Adobe\Acrobat\ActiveX\AcroPDF.dll=
+C:\WINDOWS\system32\wmp.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+P:\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\Paperless Cell.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Business Objects\3.0\crystalreportviewers11\ActiveXControls\crviewer.dll=Yes
+C:\Program Files\Common Files\Business Objects\3.0\bin\craxdrt.dll=Yes
+C:\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.2600.2180_x-ww_522f9f82\GdiPlus.dll=Yes
+C:\WINDOWS\system32\usp10.dll=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Program Files\Common Files\Adobe\Acrobat\ActiveX\AcroPDF.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\References\vbalLBar6.ocx=Yes
+\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\References\vbalIml6.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+P:\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\Paperless Cell.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Business Objects\3.0\crystalreportviewers11\ActiveXControls\crviewer.dll=$(CommonFiles)\Business Objects\3.0\crystalreportviewers11\ActiveXControls
+C:\Program Files\Common Files\Business Objects\3.0\bin\craxdrt.dll=$(CommonFiles)\Business Objects\3.0\bin
+C:\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.2600.2180_x-ww_522f9f82\GdiPlus.dll=$(CommonFiles)\Business Objects\3.0\bin
+C:\WINDOWS\system32\usp10.dll=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(AppPath)
+C:\Program Files\Common Files\Adobe\Acrobat\ActiveX\AcroPDF.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\References\vbalLBar6.ocx=$(WinSysPath)
+\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\References\vbalIml6.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+P:\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\Paperless Cell.exe=No
+C:\WINDOWS\system32\wmp.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Paperless Cell
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Paperless Cell
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Paperless Cell]
+Icon1="Paperless Cell.exe"
+Title1=Paperless Cell
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\Package
+ProjectFolder=\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell
+ServerSideCab=
+File1=\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\Package\setup.exe
+File2=\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\Package\Setup.Lst
+File3=\\buschesv2\public\Engineering\Aaron Schoon\VB Projects\Paperless Production Cell\Package\Paperless Cell.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

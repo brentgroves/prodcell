@@ -1,0 +1,13 @@
+vbalListBar = 44, 58, 1362, 687, CI, 22, 29, 1340, 658, C
+mDeclares = 132, 174, 1450, 803, 
+mLVIOLEInPlaceActiveObject = 154, 203, 1472, 832, 
+cListBars = 0, 0, 0, 0, C
+cListBar = 0, 0, 0, 0, C
+cListBarItems = 0, 0, 0, 0, C
+cListBarItem = 0, 0, 0, 0, C
+cMouseTrack = 0, 0, 0, 0, C
+mUtility = 198, 261, 1516, 890, C
+cMemDC = 0, 0, 0, 0, C
+cOwnerDrawButton = 88, 116, 1406, 745, 
+mToolTip = 176, 232, 1494, 861, Z
+cListView = 66, 87, 1384, 716, 
